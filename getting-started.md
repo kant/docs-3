@@ -3,6 +3,7 @@ description: Get started with Haiku. Create your account, download Haiku for Mac
 ---
 
 <br>
+
 # Getting Started with Haiku
 
 
